@@ -70,8 +70,8 @@ twisted = ["twisted"]
 
 [metadata]
 lock-version = "1.1"
-python-versions = "^3.9"
-content-hash = "416559d1138bf7dd087da8c45d334cd5ced8f853605c71730dfd9ea7ef7449ce"
+python-versions = "^3.8"
+content-hash = "f59297506e99c3c0b35c74d9920135a715002fba1a6524d1250631612795d773"
 
 [metadata.files]
 asyncio-dgram = []

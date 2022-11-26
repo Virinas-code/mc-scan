@@ -6,7 +6,7 @@ authors = ["Virinas-code <alexcode228@gmail.com>"]
 license = "GPL-3.0"
 
 [tool.poetry.dependencies]
-python = "^3.9"
+python = "^3.8"
 mcstatus = "^10.0.1"
 dramatiq = "^1.13.0"
 
