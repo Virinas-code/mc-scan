@@ -61,14 +61,14 @@ watch = ["watchdog", "watchdog-gevent"]
 
 [[package]]
 name = "mcstatus"
-version = "10.0.1"
+version = "10.0.2"
 description = "A library to query Minecraft Servers for their status and capabilities."
 category = "main"
 optional = false
 python-versions = ">=3.8,<4"
 files = [
-    {file = "mcstatus-10.0.1-py3-none-any.whl", hash = "sha256:7479a63d43d8215eee9919721e775b1a84c4a651bb774d016c2c75ae1f6b1ba1"},
-    {file = "mcstatus-10.0.1.tar.gz", hash = "sha256:605ac63624b79edec94edcdf65c3135c828b017aa864b8ed495c8db19d93da50"},
+    {file = "mcstatus-10.0.2-py3-none-any.whl", hash = "sha256:d3aad8ff98a1b8cf1866b31318d2321cacb70cde819980b34051ac991c79445b"},
+    {file = "mcstatus-10.0.2.tar.gz", hash = "sha256:c112ac5ae114be7faac663628de70179c13ce9b4b136fbf075d02dd91468173f"},
 ]
 
 [package.dependencies]
@@ -93,4 +93,4 @@ twisted = ["twisted"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "80e0082f4931072a1c6f7673e08a9c185cd02750182493ca33a15dae53a96f55"
+content-hash = "7955bc24e2f2cfc86d918237023340221ea8613c527eb4b53eb5b5289d497da9"
