@@ -37,14 +37,14 @@ wmi = ["wmi (>=1.5.1,<2.0.0)"]
 
 [[package]]
 name = "dramatiq"
-version = "1.14.1"
+version = "1.14.2"
 description = "Background Processing for Python 3."
 category = "main"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "dramatiq-1.14.1-py3-none-any.whl", hash = "sha256:8a27fbee4b0b4139edf1d87717c49fe4138c233247fd43ab9e39c4313eedb8fa"},
-    {file = "dramatiq-1.14.1.tar.gz", hash = "sha256:cfef1a45ffa7d6c3d2571413658429742a74c3d7503c7ca69b376bd2fb60958d"},
+    {file = "dramatiq-1.14.2-py3-none-any.whl", hash = "sha256:cbde4da5016f31fd9db3bb66f02090d6291ce4c2f2093e2783ed91da947d05f4"},
+    {file = "dramatiq-1.14.2.tar.gz", hash = "sha256:8f1a615d4c8f9ea43d60a5c85457e1ec8c0e8d3d85ba72467a959dbff483af1d"},
 ]
 
 [package.dependencies]
@@ -93,4 +93,4 @@ twisted = ["twisted"]
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.8"
-content-hash = "7955bc24e2f2cfc86d918237023340221ea8613c527eb4b53eb5b5289d497da9"
+content-hash = "43eabb6a03f8975f9e9a078f92e1d6d000714d1393ab227ccde8ab7b9c4e5e67"
