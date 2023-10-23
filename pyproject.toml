@@ -8,7 +8,7 @@ license = "GPL-3.0"
 [tool.poetry.dependencies]
 python = "^3.8"
 mcstatus = "^10.0.3"
-dramatiq = "^1.14.1"
+dramatiq = "^1.15.0"
 
 [tool.poetry.dev-dependencies]
 
